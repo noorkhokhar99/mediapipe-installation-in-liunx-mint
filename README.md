@@ -1,0 +1,1 @@
+# mediapipe-installation-in-liunx-mint
